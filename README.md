@@ -122,7 +122,7 @@ This protects data and ensures controlled updates.
 
 💡 Abstraction
 
-MenuItem is abstract — you can’t create it directly.
+MenuItem is abstract you can’t create it directly.
 It hides implementation details while requiring subclasses to define their own display() method.
 
 🧬 Inheritance
